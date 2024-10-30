@@ -1,0 +1,11 @@
+C:\Users\sol_f\source\repos\UAIPago\Entity\bin\Debug\net8.0\Entity.deps.json
+C:\Users\sol_f\source\repos\UAIPago\Entity\bin\Debug\net8.0\Entity.dll
+C:\Users\sol_f\source\repos\UAIPago\Entity\bin\Debug\net8.0\Entity.pdb
+C:\Users\sol_f\source\repos\UAIPago\Entity\obj\Debug\net8.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sol_f\source\repos\UAIPago\Entity\obj\Debug\net8.0\Entity.AssemblyInfoInputs.cache
+C:\Users\sol_f\source\repos\UAIPago\Entity\obj\Debug\net8.0\Entity.AssemblyInfo.cs
+C:\Users\sol_f\source\repos\UAIPago\Entity\obj\Debug\net8.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\sol_f\source\repos\UAIPago\Entity\obj\Debug\net8.0\Entity.dll
+C:\Users\sol_f\source\repos\UAIPago\Entity\obj\Debug\net8.0\refint\Entity.dll
+C:\Users\sol_f\source\repos\UAIPago\Entity\obj\Debug\net8.0\Entity.pdb
+C:\Users\sol_f\source\repos\UAIPago\Entity\obj\Debug\net8.0\ref\Entity.dll
